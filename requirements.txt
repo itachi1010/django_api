@@ -1,6 +1,6 @@
 altgraph==0.17.3
 annotated-types==0.5.0
-anyio==4.0.0
+anyio
 asgiref==3.7.2
 certifi==2023.7.22
 charset-normalizer==3.2.0
