@@ -39,12 +39,13 @@ pydantic_core
 Pygments
 pyinstaller
 pyinstaller-hooks-contrib
-pypiwin32
+
 pypng
 python-decouple
 pytube
 pytz
-
+pywin32
+pywin32-ctypes
 PyYAML
 pyyaml-include
 qrcode
